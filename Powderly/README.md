@@ -1,2 +1,2 @@
 [Powderly](https://powder.ly)
-https://powder.ly/bussiness-plan
+https://powder.ly/business-plan
